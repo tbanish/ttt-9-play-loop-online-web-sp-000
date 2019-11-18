@@ -40,7 +40,6 @@ def play(board)
   turn(board)
     while turn(board) > 9
     turn(board)
-    break
   end
 end
 
